@@ -47,6 +47,10 @@ TX packets 64  bytes 5568 (5.4 KiB)       
 TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 6. List forward and reverse host lookups using getent or nslookup
+$ nslookup aria-cloudera01
+Server:         168.63.129.16
+Address:        168.63.129.16#53
+Name:   aria-cloudera01.khepdbovhx5upmbxp4bqq1hzyc.ix.internal.cloudapp.netAddress: 10.5.0.4
 
 7. Show the nscd service is running
 Not Instllaled
