@@ -25,6 +25,7 @@ tmpfs           1.4G     0  1.4G   0% /run/user/1000
 /dev/sdc1      1007G   72M  956G   1% /disk1
    
 4. Disable transparent hugepages
+- None
 
 5. List your network interface configuration
 $ sudo ifconfig
